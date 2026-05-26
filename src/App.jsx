@@ -28,6 +28,7 @@ let router = createBrowserRouter([
       { path: 'catgories/:catgoriesName/:productsId', element: <ProductDetailes /> },
       { path: 'catgories', element: <Catgories /> },
       { path: 'search', element: <Seacrh /> },
+      { path: 'search/:productsId', element: <ProductDetailes /> },
       { path: '*', element: <Notfound /> },
 
 
