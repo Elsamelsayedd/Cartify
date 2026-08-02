@@ -1,7 +1,7 @@
 # 🛒 Shopping Website
 
-A modern and interactive shopping web application built باستخدام React.js.  
-The application allows users to browse products, explore categories, and search for items بسهولة وسرعة.
+A modern and interactive shopping web application built with React.js.  
+The application allows users to browse products, explore categories, and search for items Easily and quickly.
 
 ---
 
