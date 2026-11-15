@@ -17,9 +17,9 @@ export default function Contact() {
             <div className='text-center my-15'>
                 <h1 className='text-5xl font-bold my-4'>Let’s Talk</h1>
                 <p className='md:text-xl my-2'>Have questions or feedback? Our team is here to help you.</p>
-                <p className='text-xl my-2'>📍 Mumbai, India</p>
-                <p className='text-xl my-2' >📧 support@shop.com</p>
-                <p className='text-xl my-2'>📞 +91 9876543210</p>
+                <p className='text-xl my-2'>📍 Cairo, Egypt</p>
+                <p className='text-xl my-2' >📧 eslamelsayedascii@gmail.com</p>
+                <p className='text-xl my-2'>📞 +20 1122860020</p>
             </div>
 
 
