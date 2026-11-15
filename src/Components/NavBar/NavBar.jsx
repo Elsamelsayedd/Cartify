@@ -10,7 +10,7 @@ export default function NavBar() {
 
             <div className="bg-mauve-900 fixed z-20 top-0 w-full px-4 border-b border-default">
                 <div className=" flex flex-wrap items-center justify-between mx-auto p-4">
-                    <Link className='text-2xl text-white'>Dummy</Link>
+                    <Link className='text-2xl text-white'>Cartify</Link>
 
 
                     <button onClick={() => setIsOpen(!isOpen)} type="button" className="text-white cursor-pointer inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-body rounded-base md:hidden hover:bg-neutral-secondary-soft hover:text-heading focus:outline-none focus:ring-2 focus:ring-neutral-tertiary" aria-controls="navbar-default" aria-expanded="false">
