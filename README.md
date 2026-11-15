@@ -51,7 +51,7 @@ The application allows users to browse products, explore categories, and search 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/Elsamelsayedd/Dummy
+git clone https://github.com/Elsamelsayedd/Cartify.git
 cd your-repo-name
 npm install
 npm start
